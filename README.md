@@ -1,6 +1,6 @@
 # gh-star-gif
 
-![Project logo](./assets/logo/logo.png)
+![Project logo](https://github.com/shinshin86/gh-star-gif/raw/main/assets/logo/logo.png)
 
 ## Try it now!
 
@@ -10,7 +10,7 @@ npx gh-star-gif https://github.com/shinshin86/gh-star-gif
 
 Generate an animated GIF that opens a GitHub repository page, highlights the Star button, moves a fake cursor toward it, and shows an emoji-heavy callout message prompting viewers to star the repo.
 
-![demo](./assets/demo/demo.gif)
+![demo](https://github.com/shinshin86/gh-star-gif/raw/main/assets/demo/demo.gif)
 
 ## What it does
 

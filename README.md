@@ -2,11 +2,15 @@
 
 ![Project logo](./assets/logo/logo.png)
 
+## Try it now!
+
 ```bash
-npx gh-star-gif https://github.com/microsoft/TypeScript
+npx gh-star-gif https://github.com/shinshin86/gh-star-gif
 ```
 
 Generate an animated GIF that opens a GitHub repository page, highlights the Star button, moves a fake cursor toward it, and shows an emoji-heavy callout message prompting viewers to star the repo.
+
+![demo](./assets/demo/demo.gif)
 
 ## What it does
 
@@ -32,7 +36,7 @@ The result is a short, eye-catching GIF you can embed in READMEs, tweets, or doc
 | Ubuntu   | `sudo apt-get install ffmpeg` |
 | Windows  | `choco install ffmpeg` or download from [ffmpeg.org](https://ffmpeg.org/download.html) |
 
-## Quick start (npx)
+## Quick start
 
 ```bash
 # Basic usage — generates ./out/microsoft_TypeScript.gif
